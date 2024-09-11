@@ -8,10 +8,14 @@ Este repositório contém alguns exercícios em JavaScript que lidam com arrays,
 
 ---
 Funções e Métodos Utilizados
-push(): Adiciona um novo elemento ao final do array.
+push(): Adiciona um novo elemento ao final do array. 
+<br><br>
 splice(): Remove elementos a partir de um índice específico e pode adicionar novos elementos no mesmo lugar.
+<br><br>
 indexOf(): Retorna o índice de um elemento específico dentro do array.
+<br><br>
 console.table(): Exibe os elementos do array em uma tabela no console do navegador.
+<br><br>
 document.write(): Exibe as informações diretamente na página HTML.
 ---
 
