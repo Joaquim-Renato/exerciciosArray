@@ -7,16 +7,14 @@ Este repositório contém alguns exercícios em JavaScript que lidam com arrays,
 - [Exercício 2: Soma de Números Inseridos pelo Usuário]
 
 ---
-Funções e Métodos Utilizados
-push(): Adiciona um novo elemento ao final do array. 
-<br><br>
-splice(): Remove elementos a partir de um índice específico e pode adicionar novos elementos no mesmo lugar.
-<br><br>
-indexOf(): Retorna o índice de um elemento específico dentro do array.
-<br><br>
-console.table(): Exibe os elementos do array em uma tabela no console do navegador.
-<br><br>
-document.write(): Exibe as informações diretamente na página HTML.
+## Funções e Métodos Utilizados
+
+- **`push()`**: Adiciona um novo elemento ao final do array.
+- **`splice()`**: Remove elementos a partir de um índice específico e pode adicionar novos elementos no mesmo lugar.
+- **`indexOf()`**: Retorna o índice de um elemento específico dentro do array.
+- **`console.table()`**: Exibe os elementos do array em uma tabela no console do navegador.
+- **`document.write()`**: Exibe as informações diretamente na página HTML.
+
 ---
 
 ## Exercício 1: Manipulação de Arrays de Linguagens de Programação
