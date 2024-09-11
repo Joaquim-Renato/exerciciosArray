@@ -3,8 +3,8 @@
 Este repositório contém dois exercícios em JavaScript que lidam com arrays, manipulação de dados e interatividade com o usuário via prompts e `document.write`.
 
 ## Índice
-- [Exercício 1: Manipulação de Arrays de Linguagens de Programação](#exercício-1-manipulação-de-arrays-de-linguagens-de-programação)
-- [Exercício 2: Soma de Números Inseridos pelo Usuário](#exercício-2-soma-de-números-inseridos-pelo-usuário)
+- [Exercício 1: Manipulação de Arrays de Linguagens de Programação](#https://github.com/Joaquim-Renato/exerciciosArray/blob/main/exercicioArray.js)
+- [Exercício 2: Soma de Números Inseridos pelo Usuário](#https://github.com/Joaquim-Renato/exerciciosArray/blob/main/exercicioArray2.js)
 
 ---
 
