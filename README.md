@@ -43,7 +43,7 @@ O exercício envolve as seguintes etapas:
 5. Exibir o índice da linguagem "JavaScript".
 6. Exibir o array final após todas as modificações.
 
-________________________________//________________________________________________
+----
 # Exercício 2 : Soma de Números Inseridos pelo Usuário
 
 Este exercício tem como objetivo solicitar ao usuário a inserção de 5 números, armazená-los em um array e, em seguida, calcular e apresentar a somatória desses números.
@@ -64,8 +64,10 @@ Existem duas soluções implementadas:
 3. Armazena os números em um array.
 4. Calcula a somatória dos números.
 5. Exibe o array e o resultado da soma no console.
-________________________________________________________//__________________________________________________
+   
+-------
 # Exercicío 3 : Exibir Números em Ordem Inversa
+
 
 Neste programa em JavaScript, o usuário é solicitado a inserir 10 números inteiros. O objetivo é armazenar esses números em um array e exibi-los na tela em ordem inversa à sua entrada.
 
