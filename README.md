@@ -5,6 +5,7 @@ Este repositório contém alguns exercícios em JavaScript que lidam com arrays,
 ## Índice
 - [Exercício 1: Manipulação de Arrays de Linguagens de Programação]
 - [Exercício 2: Soma de Números Inseridos pelo Usuário]
+- [Exercício 3: Exibir Números em Ordem Inversa]
 
 ---
 ## Funções e Métodos Utilizados
@@ -63,6 +64,18 @@ Existem duas soluções implementadas:
 3. Armazena os números em um array.
 4. Calcula a somatória dos números.
 5. Exibe o array e o resultado da soma no console.
+________________________________________________________//__________________________________________________
+# Exercicío 3 : Exibir Números em Ordem Inversa
 
+Neste programa em JavaScript, o usuário é solicitado a inserir 10 números inteiros. O objetivo é armazenar esses números em um array e exibi-los na tela em ordem inversa à sua entrada.
+
+## Descrição
+
+O programa:
+1. Solicita ao usuário que insira 10 números inteiros.
+2. Armazena os números fornecidos em um array.
+3. Exibe os números na ordem inversa de inserção, ou seja, do último para o primeiro.
+
+---
 
 
