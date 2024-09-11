@@ -1,50 +1,59 @@
 # Exercícios de JavaScript
 
-Este repositório contém dois exercícios em JavaScript que lidam com arrays, manipulação de dados e interatividade com o usuário via prompts e `document.write`.
+Este repositório contém alguns exercícios em JavaScript que lidam com arrays, manipulação de dados e interatividade com o usuário via prompts e `document.write`.
 
 ## Índice
-- [Exercício 1: Manipulação de Arrays de Linguagens de Programação](#https://github.com/Joaquim-Renato/exerciciosArray/blob/main/exercicioArray.js)
-- [Exercício 2: Soma de Números Inseridos pelo Usuário](#https://github.com/Joaquim-Renato/exerciciosArray/blob/main/exercicioArray2.js)
+- [Exercício 1: Manipulação de Arrays de Linguagens de Programação]
+- [Exercício 2: Soma de Números Inseridos pelo Usuário]
 
 ---
 
 ## Exercício 1: Manipulação de Arrays de Linguagens de Programação
 
-Neste exercício, o objetivo é criar um array com linguagens de programação e realizar operações como adicionar, remover, modificar elementos e buscar o índice de uma linguagem específica.
+Neste exercício, vamos trabalhar com um array que contém nomes de linguagens de programação. O objetivo é realizar várias operações de manipulação no array, como adicionar, remover e modificar elementos, além de exibir o índice de uma linguagem específica.
 
-### Requisitos:
+## Descrição
+
+O exercício envolve as seguintes etapas:
 1. Criar um array com 3 linguagens de programação.
-2. Adicionar uma quarta linguagem.
+2. Adicionar uma nova linguagem à quarta posição do array.
 3. Mostrar o tamanho do array.
-4. Remover 1 elemento a partir do índice 2 e adicionar 3 novas linguagens.
-5. Alterar a linguagem na 3ª posição.
-6. Exibir o índice de uma linguagem específica (ex.: "JavaScript").
+4. Remover um elemento a partir de um índice específico e adicionar 3 novas linguagens.
+5. Alterar a informação presente na terceira posição.
+6. Mostrar o índice de uma das linguagens presentes no array.
 
-### Código:
+---
 
-```javascript
-// Criar um array com 3 linguagens de programação
-let linguagensProgramacao = ['html', 'JavaScript', 'Css'];
-document.write(linguagensProgramacao, '<br>');
-console.table(linguagensProgramacao);
+### Etapas:
 
-// Adicionar uma 4ª linguagem
-linguagensProgramacao.push('Python');
-document.write('Array c/ Adição da 4ª Linguagem: ' + linguagensProgramacao, '<br>');
+1. Criar um array inicial com 3 linguagens de programação.
+2. Adicionar a linguagem "Python" ao array.
+3. Mostrar o tamanho atual do array.
+4. Remover a linguagem "CSS" (na posição 2) e adicionar "C#", "C++" e "Java" em seu lugar.
+5. Exibir o índice da linguagem "JavaScript".
+6. Exibir o array final após todas as modificações.
 
-// Mostrar o tamanho do array
-console.log('Tamanho do array: ' + linguagensProgramacao.length);
-document.write('Tamanho do array: ' + linguagensProgramacao.length, '<br>');
+________________________________//________________________________________________
+# Exercício 2 : Soma de Números Inseridos pelo Usuário
 
-// Remover 1 elemento a partir do índice 2 e adicionar 3 novas linguagens
-linguagensProgramacao.splice(2, 1, "C#", "C++", "Java");
-document.write(linguagensProgramacao.length, '<br>');
-console.table(linguagensProgramacao);
+Este exercício tem como objetivo solicitar ao usuário a inserção de 5 números, armazená-los em um array e, em seguida, calcular e apresentar a somatória desses números.
 
-// Mostrar o índice de "JavaScript"
-let indiceJavaScript = linguagensProgramacao.indexOf("JavaScript");
-console.log("Índice de JavaScript: " + indiceJavaScript);
-document.write("Índice de JavaScript: " + indiceJavaScript, '<br>');
+## Descrição
 
-// Exibir o array final
-document.write('Array final: ' + linguagensProgramacao);
+O exercício solicita que o usuário insira 5 números através de prompts. Esses números são armazenados em um array, e posteriormente é feita a soma de todos eles. O resultado da soma é então exibido no console.
+
+Existem duas soluções implementadas:
+1. **Solução Simples**: Coleta os números individualmente e soma diretamente.
+2. **Solução com Loop**: Usa um laço de repetição para coletar os números e realizar a soma de forma mais otimizada.
+
+-------
+### Etapas:
+
+1. Exibe uma mensagem inicial de boas-vindas.
+2. Solicita que o usuário insira 5 números.
+3. Armazena os números em um array.
+4. Calcula a somatória dos números.
+5. Exibe o array e o resultado da soma no console.
+
+
+
