@@ -1,4 +1,4 @@
-/*
+/* Exercicio 4:
 Crie um Programa para armazenar a velocidade de 6 voltas de um piloto em uma pista de kart .
 Depois de ter armazenado as velocidades, seu programa deve apresentar as velocidades na ordem contraria
 (a ultima velocidade lida será a primeira a ser exibida, e assim sucessivamente).

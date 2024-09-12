@@ -6,6 +6,8 @@ Este repositório contém alguns exercícios em JavaScript que lidam com arrays,
 - [Exercício 1: Manipulação de Arrays de Linguagens de Programação]
 - [Exercício 2: Soma de Números Inseridos pelo Usuário]
 - [Exercício 3: Exibir Números em Ordem Inversa]
+- [Exercicío 4 : Armazenamento de velocidades em um pista de Kart]
+- [Exercício 5: Cálculo da Média de Notas do Alune] 
 
 ---
 ## Funções e Métodos Utilizados
@@ -94,3 +96,15 @@ As velocidades são inseridas pelo usuário e o programa exibe as velocidades em
 * **Inversão:** A ordem dos elementos do array é invertida.
 * **Saída:** As velocidades são exibidas na ordem inversa, simulando a ordem cronológica da corrida.
 
+---
+## Exercício 5: Cálculo da Média de Notas do Alune
+
+Neste exercício, o objetivo é calcular a média de 5 notas fornecidas pelo usuário e exibi-la junto com o nome do alune.
+
+### Descrição
+
+O programa:
+1. Solicita ao usuário que insira o nome do alune.
+2. Solicita 5 notas que o alune recebeu.
+3. Calcula a média dessas 5 notas.
+4. Exibe o nome do alune e a média das suas notas diretamente na página HTML.
