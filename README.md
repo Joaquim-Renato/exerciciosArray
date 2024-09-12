@@ -8,6 +8,7 @@ Este repositório contém alguns exercícios em JavaScript que lidam com arrays,
 - [Exercício 3: Exibir Números em Ordem Inversa]
 - [Exercicío 4 : Armazenamento de velocidades em um pista de Kart]
 - [Exercício 5: Cálculo da Média de Notas do Alune] 
+- [Exercício 6: Multiplicação de Dois Vetores]
 
 ---
 ## Funções e Métodos Utilizados
@@ -108,3 +109,25 @@ O programa:
 2. Solicita 5 notas que o alune recebeu.
 3. Calcula a média dessas 5 notas.
 4. Exibe o nome do alune e a média das suas notas diretamente na página HTML.
+
+---
+
+# Exercício 6 : Multiplicação de Dois Vetores
+
+Este exercício em JavaScript tem como objetivo realizar a multiplicação de dois vetores, A e B, cada um contendo 5 elementos inseridos pelo usuário. O programa coleta os valores de cada vetor, multiplica os elementos correspondentes entre si, e exibe o resultado.
+
+## Descrição
+
+O programa segue os seguintes passos:
+
+1. Solicita ao usuário que insira 5 elementos para o **Vetor A**.
+2. Solicita ao usuário que insira 5 elementos para o **Vetor B**.
+3. Multiplica os elementos correspondentes dos vetores A e B.
+4. Exibe o resultado da multiplicação dos vetores.
+
+## Funcionalidades
+
+- Coleta 5 números inseridos pelo usuário para o **Vetor A**.
+- Coleta 5 números inseridos pelo usuário para o **Vetor B**.
+- Realiza a multiplicação dos elementos correspondentes de ambos os vetores.
+- Exibe os vetores e o resultado final da multiplicação no console e na página HTML.
