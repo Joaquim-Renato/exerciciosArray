@@ -80,4 +80,17 @@ O programa:
 
 ---
 
+# Exercicío 4 : Programa de armazenamento de velocidades em um pista de Kart
+
+## Descrição:
+
+Este programa em JavaScript tem como objetivo armazenar a velocidade de 6 voltas de um piloto em uma pista de kart. 
+As velocidades são inseridas pelo usuário e o programa exibe as velocidades em ordem inversa à da entrada.
+
+**Funcionalidades:**
+
+* **Entrada de dados:** O usuário insere a velocidade de cada volta.
+* **Armazenamento:** As velocidades são armazenadas em um array.
+* **Inversão:** A ordem dos elementos do array é invertida.
+* **Saída:** As velocidades são exibidas na ordem inversa, simulando a ordem cronológica da corrida.
 
