@@ -9,7 +9,7 @@ Este repositório contém alguns exercícios em JavaScript que lidam com arrays,
 - [Exercicío 4 : Armazenamento de velocidades em um pista de Kart]
 - [Exercício 5: Cálculo da Média de Notas do Alune] 
 - [Exercício 6: Multiplicação de Dois Vetores]
-
+-[Exercício 5: Cadastro e Exibição de Alunos]
 ---
 ## Funções e Métodos Utilizados
 
@@ -131,3 +131,14 @@ O programa segue os seguintes passos:
 - Coleta 5 números inseridos pelo usuário para o **Vetor B**.
 - Realiza a multiplicação dos elementos correspondentes de ambos os vetores.
 - Exibe os vetores e o resultado final da multiplicação no console e na página HTML.
+
+---
+## Exercício 5: Cadastro e Exibição de Alunos
+
+### Descrição
+Este código JavaScript cria um simples sistema de cadastro de alunos, permitindo que o usuário insira o nome e a nota de vários alunos. Após a coleta dos dados, o programa exibe um relatório com o nome e a nota de cada aluno.
+
+### Funcionalidades
+* **Entrada de dados:** Permite ao usuário inserir a quantidade de alunos e os dados de cada um.
+* **Armazenamento:** Utiliza arrays para armazenar os nomes e notas de forma organizada.
+* **Saída:** Exibe os resultados em uma página HTML, formatando os dados de forma clara.
